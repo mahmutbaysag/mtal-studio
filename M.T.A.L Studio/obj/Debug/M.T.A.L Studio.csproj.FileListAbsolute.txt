@@ -1,0 +1,37 @@
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\M.T.A.L Studio.exe.config
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\M.T.A.L Studio.exe
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\M.T.A.L Studio.pdb
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\MetroFramework.Design.dll
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\MetroFramework.dll
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L_Studio.Form1.resources
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L_Studio.Properties.Resources.resources
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.csproj.GenerateResource.cache
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.csproj.CopyComplete
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.exe
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.pdb
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\astro\source\repos\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\M.T.A.L Studio.exe.config
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\M.T.A.L Studio.exe
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\M.T.A.L Studio.pdb
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\MetroFramework.Design.dll
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\MetroFramework.dll
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\MetroFramework.Fonts.dll
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.dll
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.csprojAssemblyReference.cache
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L_Studio.Form1.resources
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L_Studio.Properties.Resources.resources
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.csproj.GenerateResource.cache
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.csproj.CoreCompileInputs.cache
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.csproj.CopyComplete
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.exe
+D:\Programlama\M.T.A.L Studio\M.T.A.L Studio\obj\Debug\M.T.A.L Studio.pdb
